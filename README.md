@@ -1,6 +1,6 @@
-# Logic Translator
+# Basic Logic Translator
 
-Logic Translator is a Python script that translates English natural language sentences into logical propositions using symbolic logic notation.
+Basic Logic Translator is a Python script that translates English natural language sentences into logical propositions using symbolic logic notation.
 
 ## Features
 
@@ -12,9 +12,11 @@ Logic Translator is a Python script that translates English natural language sen
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/your_username/logic-translator.git
-   cd logic-translator
+   git clone https://github.com/Quitjtegirels/BasicLogicTranslator.git
+   cd BasicLogicTranslator
 
-   
+## Requirements
+RegEx library
+
 ## Usage
   Run 'logictranslator.py' and follow the instructions. It is that simple.

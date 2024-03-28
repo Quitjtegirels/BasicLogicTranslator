@@ -9,11 +9,9 @@ Basic Logic Translator is a Python script that translates English natural langua
 - Supports custom symbolic notation for propositions.
 - Provides a command-line interface for input and output.
 
-## Installation
+## How to run
 
-1. Clone the repository:
-   git clone https://github.com/Quitjtegirels/BasicLogicTranslator.git
-   cd BasicLogicTranslator
+Just execute logictranslator.py
 
 ## Requirements
 RegEx library

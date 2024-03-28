@@ -11,7 +11,7 @@ Basic Logic Translator is a Python script that translates English natural langua
 
 ## How to run
 
-Just execute logictranslator.py
+Just execute logictranslator.py and then provide asked inputs.
 
 ## Requirements
 RegEx library
